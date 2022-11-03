@@ -1,0 +1,13 @@
+.banner_button {
+  display: table-cell;
+  background-color: beige;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: black;
+
+}
+
+.banner_button:hover {
+  text-decoration: none;
+  font-weight: bolder;
+}

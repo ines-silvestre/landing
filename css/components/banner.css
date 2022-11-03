@@ -1,0 +1,26 @@
+.banner {
+  background-image:linear-gradient(rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.2) 50%), url("https://picsum.photos/1080/1620");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+ .banner_container {
+  text-align: center;
+  color: whitesmoke;
+  width: 900px;
+  margin: auto;
+  text-shadow: 30ch;
+}
+
+.banner_container p {
+  color: whitesmoke;
+  opacity: .7;
+  font-size: 20px;
+  text-align: justify;
+}
+
+.banner_container h1 {
+  color: beige;
+  text-align: justify;
+
+}
